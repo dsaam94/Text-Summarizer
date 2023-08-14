@@ -26,6 +26,7 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "pre-tests/trials.ipynb",
+    ".gitignore"
 
 ]
 
