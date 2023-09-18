@@ -1,4 +1,5 @@
 # End to end Text-Summarizer-Project
+Following the tutorial: https://www.youtube.com/watch?v=p7V4Aa7qEpw
 
 ## Workflows
 
@@ -18,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/dsaam94/Text-Summarizer
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -47,13 +48,6 @@ Now,
 open up you local host and port
 ```
 
-
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-
-```
 
 
 
